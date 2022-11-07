@@ -1,7 +1,7 @@
-# eslint-config-darron
+# eslint-config-vrick
 
 ## Install
 
 ```bash
-yarn add @darron1217/eslint-config-darron
+yarn add @vrick-labs/eslint-config-vrick
 ```
