@@ -3,5 +3,5 @@
 ## Install
 
 ```bash
-yarn add @fiji-labs/eslint-config-fiji
+yarn add https://github.com/fiji-labs/eslint-config-fiji.git
 ```
