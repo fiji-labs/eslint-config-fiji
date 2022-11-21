@@ -1,10 +1,10 @@
 {
-  "name": "@vrick-labs/eslint-config-vrick",
+  "name": "@fiji-labs/eslint-config-fiji",
   "version": "0.1.0",
-  "description": "My eslint config",
+  "description": "Fiji eslint config",
   "main": "lib/index.js",
-  "repository": "https://github.com/vrick-labs/eslint-config-vrick.git",
-  "author": "Vrick Labs",
+  "repository": "https://github.com/fiji-labs/eslint-config-fiji.git",
+  "author": "Fiji Labs",
   "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.27.1",

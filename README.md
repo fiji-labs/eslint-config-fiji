@@ -1,7 +1,7 @@
-# eslint-config-vrick
+# eslint-config-fiji
 
 ## Install
 
 ```bash
-yarn add @vrick-labs/eslint-config-vrick
+yarn add @fiji-labs/eslint-config-fiji
 ```
